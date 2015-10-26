@@ -19,6 +19,10 @@ Get bios from:
 https://firedrop.com/3f056bd4d64181a9
 
 Place it in the default folder for the PCSX2.
+-------------------------------------------------------------------------------------
+Use PS3 Sixaxis in PCSX2:
+
+Plug it in (before PCSX2 it is running), run PCSX2 and configure the controller in PCSX2.
 
 
 
