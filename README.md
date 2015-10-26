@@ -3,13 +3,13 @@ Repository that explains how to install PCSX2 in Debian Jessie of 64 bits.
 
 Steps:
 
-sudo dpkg --add-repositories i386
-sudo nano /etc/apt/sources.list
-Add to sources.list:
-deb http://ftp.de.debian.org/debian sid main 
-DO NOT FORGET TO DELETE FROM sources.list AFTER INSTALL
-sudo apt-get update
-sudo apt-get install pcsx2
+- sudo dpkg --add-repositories i386
+- sudo nano /etc/apt/sources.list
+- Add to sources.list:
+    deb http://ftp.de.debian.org/debian sid main 
+- DO NOT FORGET TO DELETE FROM sources.list AFTER INSTALL
+- sudo apt-get update
+- sudo apt-get install pcsx2
 
 ------------------------------------------------------------------------------------
 Install BIOS in PCSX2:
